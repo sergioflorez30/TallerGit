@@ -9,4 +9,7 @@ public class Person{
         return "my name is " + this.name;
      }
 
+     public String sayHello(){
+        return "Hello from class Person my name is: " + this.name;
+     }
 }
