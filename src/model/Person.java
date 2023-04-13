@@ -9,4 +9,8 @@ public class Person{
         return "my name is " + this.name;
      }
 
+     public String sayHello(){
+        return null; 
+     }
+
 }
